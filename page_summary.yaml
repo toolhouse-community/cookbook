@@ -1,0 +1,869 @@
+id: 84f7781a-2546-4ba2-8719-59c5c372f1ae
+title: Page summary
+system_prompt: >-
+  You are a skilled webpage summarizer. Your job is to look at the following
+  content coming from a webpage, and to extract the relevant information that
+  match the user question. Do this:
+
+  1. Read the content of the website below carefully (it will be in Markdown for your convenience).
+  2. Given the user question, extract the parts of the website that are relevant to the user question.
+  3. Follow the user's instruction to format the results in the way they prefer, if specified.
+
+  If the user asks you to send an email, make sure it's formatted nicely in HTML.
+
+  Here is the content of the website:
+
+  {content}
+message: did anyone launch a new product today?
+vars:
+  content: |-
+    (10) Feed | LinkedIn                                                                                                                                                                    
+
+     0 notifications total
+     ---------------------
+
+     Skip to search Skip to main content
+
+     Keyboard shortcuts Close jump menu
+
+     [
+
+     ](https://www.linkedin.com/feed/?doFeedRefresh=true&nis=true)
+
+       
+
+     Search
+
+     *   [
+         
+         new feed updates notifications
+         
+         Home](https://www.linkedin.com/feed/?doFeedRefresh=true&nis=true&)
+     *   [
+         
+         3 3 new network updates notifications
+         
+         My Network](https://www.linkedin.com/mynetwork/?)
+     *   [
+         
+         Jobs](https://www.linkedin.com/jobs/?)
+     *   [
+         
+         Messaging](https://www.linkedin.com/messaging/?)
+     *   [
+         
+         Notifications](https://www.linkedin.com/notifications/?)
+     *   Me
+         
+     *   For Business
+         
+     *   [
+         
+         7 7 new Sales Navigator notifications
+         
+         Sales Nav](https://www.linkedin.com/sales/index?trk=d_flagship3_nav&)
+
+     [
+
+     Premium
+
+
+
+     ](/in/iamdaniele/)[](/in/iamdaniele/)
+
+     [
+
+     ### Daniele Bernardi
+
+     CEO @ Toolhouse • AI for every developer
+
+     San Francisco Bay Area
+
+     ](/in/iamdaniele/)[
+
+     Toolhouse
+
+     ](/in/iamdaniele/)
+
+     *   [
+         
+         Profile viewers
+         
+         **2,107**
+         
+         
+         
+         ](/me/profile-views/)
+     *   [
+         
+         Post impressions
+         
+         **7,378**
+         
+         
+         
+         ](/analytics/creator/content/)
+
+     [
+
+     Go to Sales Navigator
+
+     ](https://www.linkedin.com/sales)
+
+     My pages (3)
+     ------------
+
+     [](/company/102772754/admin/)
+
+     [Toolhouse](/company/102772754/admin/) [Activity 107](/company/102772754/admin/notifications/)
+
+     [](/company/99389246/admin/)
+
+     [Omniprompt](/company/99389246/admin/) [Activity 0](/company/99389246/admin/notifications/)
+
+     [](/company/5131107/admin/)
+
+     [Pitchtarget](/company/5131107/admin/) [Activity 0](/company/5131107/admin/notifications/)
+
+     Stand out to prospects Try Premium Page[
+
+     Advertise on LinkedIn
+
+     ](/campaignmanager/accounts)
+
+     *   [
+         
+         Saved items
+         
+         ](/my-items/)
+     *   [
+         
+         Groups
+         
+         ](https://www.linkedin.com/groups)
+     *   [
+         
+         Newsletters
+         
+         ](https://www.linkedin.com/mynetwork/network-manager/newsletters)
+     *   [
+         
+         Events
+         
+         ](https://www.linkedin.com/events)
+
+     Drop your files here Drag your files here
+
+     [
+
+     ](/in/iamdaniele/)**Start a post**
+
+     Video Photo [Write article](/article/new/)
+
+     * * *
+
+     Sort by: Top
+
+     feed updates
+     ============
+
+     New posts
+
+     Feed post number 1
+     ------------------
+
+     [
+
+     ](https://www.linkedin.com/in/claytonbryan?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAABnXmgBxc0FmPYp5mT0ugy5XvYCA45k-jI)[Clayton Bryan](/in/claytonbryan/) likes this
+
+     [](https://www.linkedin.com/in/ella-shukho?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAABR7Z84Br7-A_ZV8B9y1-RAP_a8rsPWvoZ0)
+
+     [Ella ShukhoElla Shukho • 1st1st Flagship Accelerator @ 500 Global | Perplexity Business FellowFlagship Accelerator @ 500 Global | Perplexity Business Fellow](https://www.linkedin.com/in/ella-shukho?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAABR7Z84Br7-A_ZV8B9y1-RAP_a8rsPWvoZ0) 11h • 11 hours ago • Visible to anyone on or off LinkedIn
+
+     We have some bold companies in the [500 Global](https://www.linkedin.com/company/500global/) portfolio. The Atlas team is one of those. Ruthless, when it comes to execution, fearless, laser-focused, and remarkably humble team: [[Michael Hoy 👨‍🚀](/in/michaelthoy/)](https://www.linkedin.com/in/ACoAAAb0EAcBjVK3aL1GT685ViATT2MjEQaBQ6E)[[Clay Miner](/in/clay-miner-4b9b4a8/)](https://www.linkedin.com/in/ACoAAAGXzk0B672tP_hFSzXcdNNnpxQzmjUgEGY)[[👩🏻‍🚀 Laura Liu Cruickshanks](/in/mslauraliu/)](https://www.linkedin.com/in/ACoAAADL1vQB86M0EhUf5H8SN1JYJAABVwczE9U).  
+     I had the privilege of working with them during the Flagship Accelerator Program [hashtag#myfavoriteBatch35](https://www.linkedin.com/search/results/all/?keywords=%23myfavoritebatch35&origin=HASH_TAG_FROM_FEED), and it’s been an absolute joy to support their journey.  
+     Today, Atlas is launching on [Product Hunt](https://www.linkedin.com/company/producthunt/), introducing “vibe pricing”—a fresh approach to SaaS monetization that’s already turning heads. If you’re curious about how AI can drive more profound customer discovery, value-based selling (even when the roadmap is still evolving!), and the future of SaaS metrics, you’ll want to check this out.  
+     Yesterday, Atlas hosted a Product Hunt launch party at [Pendo.io](https://www.linkedin.com/company/pendo-io/)' s SF office. The evening featured Atlas's customers and supporters, including:  
+     [[Tatyana Mamut, PhD](/in/tmamut/)](https://www.linkedin.com/in/ACoAAABw2IUBz0tX3bycfGNk3Ly2Nyf4id-jv7Y), [[Sam Werboff](/in/samwerboff/)](https://www.linkedin.com/in/ACoAAAOWekcBRocJ4BvUt8ChEJ6eY3VWEMTjV8M), [[Shikhar Mishra](/in/mrmsra/)](https://www.linkedin.com/in/ACoAAABLae8BmMlvxW450s9zFIqyInRBkovE-VM), and others.  
+     As usual with the Atlas team, the room was full of great people, conversations about Taylor Swift (it's a long story- don't ask 😁 ), and more good food.  
+       
+     Join us in supporting Atlas on Product Hunt—let’s help them make some noise and show what the next wave of SaaS innovation looks like! 🚀✨  
+     [https://lnkd.in/ghcVSafV](https://lnkd.in/ghcVSafV)  
+     [[Clayton Bryan](/in/claytonbryan/)](https://www.linkedin.com/in/ACoAAABnXmgBxc0FmPYp5mT0ugy5XvYCA45k-jI) [[Leonard Lee](/in/leonardelee/)](https://www.linkedin.com/in/ACoAAA4Hd0kBZ1b1X_4wHHAREFYKwUeQ3eso5BQ) [[Jean-Philippe ‘JP’ Persico](/in/jppersico/)](https://www.linkedin.com/in/ACoAAALA7JMBH7A-yYemyFPnx8JV8lCAS4_77Hs)
+
+     …more
+
+     +4
+
+     Activate to view larger image,
+
+     *   94 👩🏻‍🚀 Laura Liu Cruickshanks and 93 others
+     *   *   10 comments
+         *   1 repost
+
+     Like
+
+     Comment
+
+     Repost
+
+     Send
+
+     Skip to LinkedIn News
+     ---------------------
+
+     Feed post number 2
+     ------------------
+
+     [](https://www.linkedin.com/in/pranav-kashyap?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAH29F8BdSsOw0H_8oYVv60k6kaonnuOxCc)
+
+     [Pranav KashyapPranav Kashyap • 2nd2nd 👇Founder @ Central (YC) - Payroll & govt compliance for startups👇👇Founder @ Central (YC) - Payroll & govt compliance for startups👇](https://www.linkedin.com/in/pranav-kashyap?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAH29F8BdSsOw0H_8oYVv60k6kaonnuOxCc) Promoted by [Central](https://www.linkedin.com/company/centralhq/)Promoted by Central
+
+     Follow
+
+     Want to give a founder a mild panic attack?  
+       
+     Ask them for their EIN :)  
+       
+     "Wait... is it in that folder? Stripe Atlas? My bank account? That email from our lawyer three months ago?"  
+       
+     Trivial? Sure.  
+       
+     But multiply this by hundreds of similar moments:  
+     \- Hunting for your registered agent info  
+     \- Digging through state filing confirmations  
+     \- Searching for your worker's comp policy number  
+       
+     And suddenly you're spending half your day on random admin work instead of building your company.  
+       
+     The worst part: it's such a pain.  
+       
+     This is exactly why founders love Central  
+       
+     Yes, we handle the big stuff like:  
+     \- Payroll  
+     \- Benefits  
+     \- Government filings  
+     \- Worker's comp  
+     \- All that government mail  
+       
+     But there's so much more...  
+       
+     It's all the 1000 little things. The paper cuts.  
+       
+     The document searches.  
+     The form hunting.  
+     The quick edits.  
+       
+     All the moments that traditional HR/finance platforms ignore because they weren't built for founders like us.  
+       
+     Now possible, where you already are: SLACK.  
+       
+     Question: What's the administrative task you hate handling the most?
+
+     …more
+
+     Play
+
+     Media is loading
+
+     Loaded: 16.50%
+
+     0:00
+
+     Play
+
+     Play
+
+     Back to start of video
+
+     Back to start
+
+     Stream Type LIVE
+
+     Current time 0:00
+
+     /
+
+     Duration 0:24
+
+     Turn closed captions on
+
+     Show captions
+
+     Unmute
+
+     Turn fullscreen on
+
+     Fullscreen
+
+     Media player modal window
+
+     *   46 RJ Moscardon and 45 others
+     *   *   8 comments
+         *   2 reposts
+
+     Like
+
+     Comment
+
+     Repost
+
+     Send
+
+     Skip to LinkedIn News
+     ---------------------
+
+     Feed post number 3
+     ------------------
+
+     [](https://www.linkedin.com/company/toolhouseai/posts)
+
+     [ToolhouseToolhouse 1,281 followers1,281 followers](https://www.linkedin.com/company/toolhouseai/posts) 1d • Edited • 1 day ago • Edited • Visible to anyone on or off LinkedIn
+
+     The protocol war and why it all ends with Toolhouse!
+
+     [Previously live
+
+     See more
+
+     ](/video/live/urn:li:ugcPost:7338281752664121345/?isInternal=true)
+
+     Play
+
+     Media is loading
+
+     Loaded: 0.14%
+
+     00:00
+
+     Play
+
+     Play
+
+     Back to start of video
+
+     Back to start
+
+     Skip back 10 seconds
+
+     Skip back
+
+     Skip ahead 10 seconds
+
+     Skip ahead
+
+     Stream Type LIVE
+
+     Current time 0:00
+
+     /
+
+     Duration 23:46
+
+     1x
+
+     Playback speed
+
+     Playback speed
+
+     *   0.5x
+     *   0.75x
+     *   1x, selected
+     *   1.25x
+     *   1.5x
+     *   1.75x
+     *   2x
+
+     Open Captions Menu
+
+     Captions
+
+     *   Off, selected
+     *   English (auto-generated)
+
+     Unmute
+
+     Turn fullscreen on
+
+     Fullscreen
+
+     Media player modal window
+
+     *   1
+
+     Like
+
+     Comment
+
+     Repost
+
+     Send
+
+     Skip to LinkedIn News
+     ---------------------
+
+     Feed post number 4
+     ------------------
+
+     [](https://www.linkedin.com/in/aba-micah-2a502550?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAquhV0BdHEb-0S6d_yaqqW-IzBjm6bkMbU)
+
+     [Aba MicahAba Micah • 1st1st Developer Community GrowthDeveloper Community Growth](https://www.linkedin.com/in/aba-micah-2a502550?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAquhV0BdHEb-0S6d_yaqqW-IzBjm6bkMbU) 1d • Edited • 1 day ago • Edited • Visible to anyone on or off LinkedIn
+
+     Were you at Snowflake Summit last week? If so, you definitely saw the energy (and a bit of the chaos 👀) at the Group By() Lounge — and we wouldn’t have had it any other way. 💥  
+       
+     From spontaneous whiteboard convos to packed demos and recruiting lines out the door, the Group By Lounge was the place to be for devs, data people, and open source enthusiasts.  
+       
+     🔥 First, massive love to my partners in crime — [[Monique Lupu](/in/monique-lupu/)](https://www.linkedin.com/in/ACoAACbUIUkBKiAAoBQyFCOYqt_n83okdJVbnsg) and [[Kanwal Komail](/in/kanwalzs/)](https://www.linkedin.com/in/ACoAAAPnhgQBByUpPZY-tjQYpGWrSWT7WdtctC0) — we completely killed it as a team at the Group By Lounge. From start to finish, your energy, creativity, and hustle were unmatched. Wouldn’t have been the same without you.  
+       
+     🙏 Huge thank you to the incredible folks who made the rest of it happen:  
+       
+     For holding down the open source conversations:  
+     [[Russell Spitzer](/in/russell-spitzer-5697328/)](https://www.linkedin.com/in/ACoAAAGIF6EBHB1aGhA2XTRihN2hZLUCuGh6UD4), [[Yufei Gu](/in/yufei-gu-15ab9528/)](https://www.linkedin.com/in/ACoAAAXev5YBOTT9RxMt6AcJeUK5Yq-HZnlSKCo), [[JB Onofré](/in/jb-onofr%C3%A9-a0739317/)](https://www.linkedin.com/in/ACoAAANwBucBmZ0_ofFPTJYuHz9frmXXa_gFOMY), [[Danica Fine](/in/danica-fine/)](https://www.linkedin.com/in/ACoAABWKEy4Beyx3OBtnbFlNsq0L1RCR9eZGAok), [[Alex Merced](/in/alexmerced/)](https://www.linkedin.com/in/ACoAAAD28HkBScL4LWFcI_mfKm_7XK24SvRjAeY) and [[Maeve Donovan](/in/maevecdonovan/)](https://www.linkedin.com/in/ACoAABi_ZfQBdt6N0SdigCw6270pjOJ1zscZZxE) — your passion and expertise lit up every discussion.  
+       
+     For powering the Streamlit experience:  
+     @Amanda Kelly, [[Thiago Teixeira](/in/thiagotdotcom/)](https://www.linkedin.com/in/ACoAAANGgWwBk2r_h16pZ3Z4_vQXghSwS7VdySU), [[Ken McGrady](/in/kenmcgrady/)](https://www.linkedin.com/in/ACoAAAD7NEcB7W_zSAZDR02Pqu44dtQy1ym0Jx4), [[Carlos D. Serrano](/in/carlosdserrano/)](https://www.linkedin.com/in/ACoAABPYoQABS88lqXKTSBtRhtbejtLLUl6q1gk), [[Jessica S.](/in/jessica-s-095a861b3/)](https://www.linkedin.com/in/ACoAADHQmPEBrdMPJj8uV7gAdM5sg2z0GaaLRtE) — and of course, our amazing Streamlit Creators who showed up and showed off what’s possible with Streamlit.  
+       
+     For driving the recruiting magic:  
+     [[Joy (.](/in/joylakeykeating/)](https://www.linkedin.com/in/ACoAABMgNdMBX3M_rqYGJraIwdEfH7pMWnHE9xI), [[Kelly Estrada](/in/kellyestrada/)](https://www.linkedin.com/in/ACoAABOnDs0BCkvySRrGoZ9BBwYQwdKNNEJ2pbA), [[Elsa Mayer](/in/elsamayer/)](https://www.linkedin.com/in/ACoAAAvqGiEB_P4-uMpALa06aoEym9yoVrBM8gM) and [[Amelia (Gonsalves) Kingsbury](/in/ameliagonsalveskingsbury/)](https://www.linkedin.com/in/ACoAAAwYaN4BFbDYpDOQg-rE8LUefu4pMsex7ec) — the interest and turnout were unreal, and that’s all thanks to your incredible planning and presence.  
+       
+     And finally, so much love to the core team that made the week unforgettable:  
+     [[Amilee Alesna](/in/amileesanjuan/)](https://www.linkedin.com/in/ACoAAAKU6TIBCtR3vJXMAKrhAn6VIriMy9VO82U), [[Anna Filippova](/in/annafilippova/)](https://www.linkedin.com/in/ACoAAAVu_v4BBTtw6kDPhMSu_I5Ci4Sy6OmsulA), [[Chanin Nantasenamat](/in/chanin-nantasenamat/)](https://www.linkedin.com/in/ACoAAB6mKZgBFEOFst5-udj_hT-kmNWghAN1a94), [[Danica Fine](/in/danica-fine/)](https://www.linkedin.com/in/ACoAABWKEy4Beyx3OBtnbFlNsq0L1RCR9eZGAok), [[Dash DesAI](/in/dash-desai/)](https://www.linkedin.com/in/ACoAAAAxN6cBhgnRoAbHqjYBWOoGoc8di5HGDxw), [[Emma MacGregor](/in/emmamacgregor/)](https://www.linkedin.com/in/ACoAABaxfRMB6WGPFFkJ5ko1YkowtjrIGSpFZkU), [[Elsa Mayer](/in/elsamayer/)](https://www.linkedin.com/in/ACoAAAvqGiEB_P4-uMpALa06aoEym9yoVrBM8gM), [[Francisco Kattan](/in/franciscokattan/)](https://www.linkedin.com/in/ACoAAAAEwtUBhwJHhNFG-Mj0Lw_OJdyVxC52HOA), [[Gilberto Hernandez](/in/gilberto-hernandez/)](https://www.linkedin.com/in/ACoAAArpqLMBU4ZaR977bTN7FW8TME3NaC6mmBI), [[Gregory Goomishian](/in/goomishian/)](https://www.linkedin.com/in/ACoAAAT4ZakBf5-LZW7mx5gDLpZGPVd24M3phP8), [[James Cha-Earley](/in/jamesjcha/)](https://www.linkedin.com/in/ACoAAAhXZd4BT-LuNfyf3XzAXjkq-VOo50JXtEE), [[Jessica S.](/in/jessica-s-095a861b3/)](https://www.linkedin.com/in/ACoAADHQmPEBrdMPJj8uV7gAdM5sg2z0GaaLRtE), [[Josh Reini](/in/josh-reini/)](https://www.linkedin.com/in/ACoAABmROPwBAIe7NIh1ADgBkfvkXhUWnVDw2fg), [[Kamesh Sampath](/in/kameshsampath/)](https://www.linkedin.com/in/ACoAAAqja9wBHQdfeyruzqhPknxQimhWe1h5OyQ), [[Krista Muir](/in/kristamuir/)](https://www.linkedin.com/in/ACoAAAIQPcUB9WlhQTbdpKl_BmGwfalVfq-g6H8), [[Matt Carter](/in/matthewecarter/)](https://www.linkedin.com/in/ACoAAAAN9D8BUvbIl_oLzruUxMPi8OIAuWBhLgE), [[Rida Safdar](/in/rida-safdar-281a477a/)](https://www.linkedin.com/in/ACoAABDiTMEBBvL1h0XFuOrDeda56--9YA1hJaM), and [[Vino Duraisamy](/in/vinodhini-sd/)](https://www.linkedin.com/in/ACoAAA0GchIByacef739Pcy4dPRdVlkMidQUVjU) — y’all are a dream team.  
+       
+     🔥 Here’s to more moments like this, more community magic, and more building together. See you at the next one!  
+       
+     [hashtag#SnowflakeSummit](https://www.linkedin.com/search/results/all/?keywords=%23snowflakesummit&origin=HASH_TAG_FROM_FEED) [hashtag#DevDay](https://www.linkedin.com/search/results/all/?keywords=%23devday&origin=HASH_TAG_FROM_FEED) [hashtag#GroupByLounge](https://www.linkedin.com/search/results/all/?keywords=%23groupbylounge&origin=HASH_TAG_FROM_FEED) [hashtag#OpenSource](https://www.linkedin.com/search/results/all/?keywords=%23opensource&origin=HASH_TAG_FROM_FEED) [hashtag#Streamlit](https://www.linkedin.com/search/results/all/?keywords=%23streamlit&origin=HASH_TAG_FROM_FEED) [hashtag#DeveloperCommunity](https://www.linkedin.com/search/results/all/?keywords=%23developercommunity&origin=HASH_TAG_FROM_FEED) [hashtag#Recruiting](https://www.linkedin.com/search/results/all/?keywords=%23recruiting&origin=HASH_TAG_FROM_FEED) [hashtag#Teamwork](https://www.linkedin.com/search/results/all/?keywords=%23teamwork&origin=HASH_TAG_FROM_FEED) [hashtag#Gratitude](https://www.linkedin.com/search/results/all/?keywords=%23gratitude&origin=HASH_TAG_FROM_FEED)
+
+     …more
+
+     Activate to view larger image,
+
+     *   75 Rafael Liou and 74 others
+     *   *   15 comments
+
+     Like
+
+     Comment
+
+     Repost
+
+     Send
+
+     Skip to LinkedIn News
+     ---------------------
+
+     Feed post number 5
+     ------------------
+
+     Try LinkedIn AdsTry LinkedIn Ads
+
+     Build your brand and drive quality leads. Receive a $100 ad credit from us.Build your brand and drive quality leads. Receive a $100 ad credit from us.
+
+     [Learn more](https://business.linkedin.com/marketing-solutions/cx/22/07/ads-credit-d?src=li-ghom&veh=SSxOS2xACQxGALxGHBPxNAMERxUSAxENxPROMOx202501xBrandedPromotionUpdatesAdsCreditxCompanyPageAdminsx547xMOFUxVisitsxv2a&mcid=7288218488182124544)
+
+     [
+
+     ](https://business.linkedin.com/marketing-solutions/cx/22/07/ads-credit-d?src=li-ghom&veh=SSxOS2xACQxGALxGHBPxNAMERxUSAxENxPROMOx202501xBrandedPromotionUpdatesAdsCreditxCompanyPageAdminsx547xMOFUxVisitsxv2a&mcid=7288218488182124544)
+
+     Skip to LinkedIn News
+     ---------------------
+
+     Skip to LinkedIn News
+     ---------------------
+
+     Feed post number 7
+     ------------------
+
+     [**Syed Usamah’s**](/in/syedmusamah/) job update
+
+     [
+
+     [
+
+     ](https://www.linkedin.com/in/syedmusamah?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAV1i80BZ_IY3k3UmcUMYvbLcMlaqatReAc)
+
+     **Syed started a new position**
+
+     Head of Engineering at [Midi Health](https://www.linkedin.com/company/midi-health/)
+
+
+
+     ](https://www.linkedin.com/in/syedmusamah?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAV1i80BZ_IY3k3UmcUMYvbLcMlaqatReAc "View Syed Usamah’s profile")
+
+     *   34
+     *   *   8 comments
+
+     Like
+
+     Comment
+
+     *   Congrats Syed! 🎉
+     *   Wishing you the best
+     *   Congratulations! 🎉
+     *   🔥🔥🔥
+     *   Well done Syed
+     *   🥳🥳🥳
+     *   🙌🙌🙌
+
+     Skip to LinkedIn News
+     ---------------------
+
+     Feed post number 8
+     ------------------
+
+     [
+
+     ](https://www.linkedin.com/in/laserfocus?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAOYudcBPV4zPBUFMnhShrYlQzBfQe-HnSc)[Orlando Kalossakas](/in/laserfocus/) commented on this
+
+     [](https://www.linkedin.com/in/alexyliuswe?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAACPMOJwBHmhDcXJ1Nxg4F8-kV2HlIJMKKmM)
+
+     [Alex LiuAlex Liu • 2nd2nd Founder @ Prism AI (YC X25) | Ex-PalantirFounder @ Prism AI (YC X25) | Ex-Palantir](https://www.linkedin.com/in/alexyliuswe?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAACPMOJwBHmhDcXJ1Nxg4F8-kV2HlIJMKKmM) 12h • Edited • 12 hours ago • Edited • Visible to anyone on or off LinkedIn
+
+     Follow
+
+     Quitting my $850k/year job at 24 to build my own startup  
+       
+     DISCLAIMER: I think these kind of posts are cringe but my cofounders think it will do well and get traction 😛😛  
+       
+     Anyways, I always knew I'd start my own company someday. It was just a question of when and with whom. My original plan was simple: put in a few years at Palantir, reach my vesting cliff, then leave to build something of my own.  
+       
+     What I didn't anticipate was Palantir's stock exploding 15x since I joined in January 2023. The golden handcuffs suddenly became diamond at some point.  
+       
+     When [[Rajit Khanna](/in/rkhanna23/)](https://www.linkedin.com/in/ACoAAA-inf8Be9MZb_BjTQ9viH0HPyAHFBVbV2k) called me up me earlier this year with an idea and a YC application, I casually said, "Sure why not, just throw my name on it and we'll see where it goes." Part of me even sadistically hoping that we wouldn’t get in. Funny enough, we did.  
+       
+     Suddenly I faced a genuine dilemma. Do I chase my entrepreneurial dreams with all the known risks, or continue working as an extremely over-compensated engineer in a secure role? Walking away from that kind of financial security at 24 isn't something you can do lightly. My mom is retiring this year and my brother Daniel still has a few years left in his little expensive liberal arts school (Princeton) with no financial aid. All of the financial pressure of mortgage, insurance, tuition, etc would fall on my dad. I’d be lying if I said I didn't spend a few late nights staring at spreadsheets, calculating how much I owed the IRS, and questioning my own sanity.  
+       
+     But the entrepreneurial bug in me couldn't be ignored. Despite coding for long hours at Palantir during the week, I still found myself spending entire weekends building random apps and learning new tech. The opportunity in front of me was too compelling to pass up. I’d be working with two of my closest friends [[Land Tantichot](/in/landtantichot/)](https://www.linkedin.com/in/ACoAACQxqQkB01a1ocGeucMIrQduD4gTS02PiEE) and [[Rajit Khanna](/in/rkhanna23/)](https://www.linkedin.com/in/ACoAAA-inf8Be9MZb_BjTQ9viH0HPyAHFBVbV2k), people who've seen me at my best and worst and who share my vision for what technology should do.  
+       
+     Our idea also has enormous potential, addressing a significant problem I personally have wrestled with both at Palantir and in my personal projects: poor product decisions that stem from a lack of understanding of how users actually interact with your product. If money was the only thing holding me back, then I realized I was never approaching startups for the right reasons to begin with.  
+       
+     So I decided to bet on myself.  
+       
+     I was watching Breaking Bad around the time I was making this decision and I was thinking I’d probably crash out like Walter White later in life if I had to watch Rajit and Land build a unicorn like Gray Matter without me.  
+       
+     For anyone contemplating a similar leap of faith, just do it. Some doors only open once.
+
+     …more
+
+     Activate to view larger image,
+
+     Activate to view larger image,
+
+     *   1,284 Paulo Nascimento and 1,283 others
+     *   *   95 comments
+         *   10 reposts
+
+     Like
+
+     Comment
+
+     Repost
+
+     Send
+
+     [
+
+     ](https://www.linkedin.com/in/laserfocus)[
+
+     ### Orlando Kalossakas • 1st
+
+     Toolhouse: backend as a service for AI
+
+     ](https://www.linkedin.com/in/laserfocus)
+
+     7h
+
+     how the hell does palantir pay that much?
+
+     Like
+
+     2
+
+     Reply 3 replies 3 Replies on Orlando Kalossakas’ comment
+
+     See previous replies
+
+     [
+
+     ](https://www.linkedin.com/in/laserfocus)[
+
+     ### Orlando Kalossakas • 1st
+
+     Toolhouse: backend as a service for AI
+
+     ](https://www.linkedin.com/in/laserfocus)
+
+     5h
+
+     [
+
+     ](#)
+
+     Like
+
+     2
+
+     Reply
+
+     Load more comments
+
+     Skip to LinkedIn News
+     ---------------------
+
+     Skip to LinkedIn News
+     ---------------------
+
+     Show more feed updates
+
+     These are the day’s top professional news stories and conversations. [Learn more](https://www.linkedin.com/help/linkedin/answer/72665) about how they’re selected.
+
+     LinkedIn News
+     -------------
+
+     ### Top stories
+
+     *   [
+         
+         Inflation nudged higher in May
+         
+         3h ago • 14,050 readers](/news/story/inflation-nudged-higher-in-may-7413026/)
+     *   [
+         
+         Zara summer sales flash a warning
+         
+         3h ago • 7,487 readers](/news/story/zara-summer-sales-flash-a-warning-6907737/)
+     *   [
+         
+         US-China deal has rare-earth limit
+         
+         3h ago • 4,814 readers](/news/story/us-china-deal-has-rare-earth-limit-6908457/)
+     *   [
+         
+         Oracle gains on AI-cloud growth
+         
+         2h ago • 3,959 readers](/news/story/oracle-gains-on-ai-cloud-growth-6439180/)
+     *   [
+         
+         Meta poaching AI talent for new lab
+         
+         3h ago • 3,007 readers](/news/story/meta-poaching-ai-talent-for-new-lab-6905641/)
+     *   [
+         
+         Google appoints AI product chief
+         
+         2h ago • 1,217 readers](/news/story/google-appoints-ai-product-chief-6900745/)
+     *   [
+         
+         Media landscape braces for change
+         
+         3h ago • 1,129 readers](/news/story/media-landscape-braces-for-change-6886753/)
+     *   [
+         
+         Fulbright scholarship board resigns
+         
+         2h ago • 881 readers](/news/story/fulbright-scholarship-board-resigns-6909833/)
+     *   [
+         
+         Schultz hails new Starbucks strategy
+         
+         2h ago • 530 readers](/news/story/schultz-hails-new-starbucks-strategy-6896561/)
+     *   [
+         
+         Disney and Universal sue AI startup
+         
+         2h ago • 67,450 readers](/news/story/disney-and-universal-sue-ai-startup-7416514/)
+
+     Show more
+
+     *   [About](https://about.linkedin.com/)
+     *   [Accessibility](https://www.linkedin.com/accessibility)
+     *   [Help Center](https://www.linkedin.com/help/linkedin?trk=footer_d_flagship3_feed)
+     *   Privacy & Terms
+         
+     *   [Ad Choices](https://www.linkedin.com/help/linkedin/answer/62931)
+     *   [Advertising](https://www.linkedin.com/ad/start?trk=n_nav_ads_rr)
+     *   Business Services
+         
+     *   Get the LinkedIn app
+         
+     *   More
+
+     LinkedIn Corporation © 2025
+
+     Status is online
+
+     Messaging You are on the messaging overlay. Press enter to open the list of conversations.
+
+     Compose message
+
+     You are on the messaging overlay. Press enter to open the list of conversations.
+
+     ### More inboxes
+
+     Click to see affiliated inboxes
+
+     Status is offline
+
+     Yan Bieger
+     ----------
+
+     Close your conversation with Daniele Bernardi and Yan Bieger
+
+     *   Monday Yan Bieger sent the following message at 2:31 PM
+         
+         [View Yan’s profile](https://www.linkedin.com/in/ACoAACLq2o8BOPIHmTXNkuuJGsFXq3opUgYg7_c)
+         
+         [Yan Bieger](https://www.linkedin.com/in/ACoAACLq2o8BOPIHmTXNkuuJGsFXq3opUgYg7_c) 2:31 PM
+         
+         *   😬
+             
+         *   🚀
+             
+         *   🌍
+             
+         
+         Open Emoji Keyboard
+         
+         Hi Daniele, thanks for accepting the invite here!  
+           
+         I think I saw you briefly as I stopped by Toolhouse's booth at SNOW - really enjoyed learning about what you are building and I'd love to connect in the future over a call. I'm happy to provide more details on DTCP Growth / my interest in the space async or in a call. Wish you a good day there!  
+           
+         Feel free to book a time here if it makes sense. Thanks Daniele!  
+         [https://calendly.com/yan-bieger-us/30min](https://calendly.com/yan-bieger-us/30min)
+         
+         *   😬
+             
+         *   🚀
+             
+         *   🌍
+             
+         
+         Open Emoji Keyboard
+         
+         [
+         
+         ](https://calendly.com/yan-bieger-us/30min)
+         
+         [
+         
+         30 Minute Meeting - Yan Bieger
+         
+         calendly.com
+         
+         
+         
+         
+         
+         ](https://calendly.com/yan-bieger-us/30min)
+         
+     *   Daniele Bernardi sent the following message at 6:12 PM
+         
+         [View Daniele’s profile](https://www.linkedin.com/in/ACoAAATrOBsB7ujQv-696x5F-wtZkEnB2hfE3Gk)
+         
+         [Daniele Bernardi](https://www.linkedin.com/in/ACoAAATrOBsB7ujQv-696x5F-wtZkEnB2hfE3Gk) 6:12 PM
+         
+         *   😬
+             
+         *   🚀
+             
+         *   🌍
+             
+         
+         Open Emoji Keyboard
+         
+         Hi Yan, likewise, great meeting you even if briefly. Let’s connect in the future — we’re seedstrapped and definitely too early for the growth stage DTCP invests in. I can add you to our investor friendly newsletter if that’s okay
+         
+     *   NEW Yan Bieger sent the following messages at 6:17 PM
+         
+         [View Yan’s profile](https://www.linkedin.com/in/ACoAACLq2o8BOPIHmTXNkuuJGsFXq3opUgYg7_c)
+         
+         [Yan Bieger](https://www.linkedin.com/in/ACoAACLq2o8BOPIHmTXNkuuJGsFXq3opUgYg7_c) 6:17 PM
+         
+         *   😬
+             
+         *   🚀
+             
+         *   🌍
+             
+         
+         Open Emoji Keyboard
+         
+         Absolutely. We'd also go earlier stage (Series A) or I'm happy to chat / support conversations and intros with early-stage investors.  
+           
+         I frankly just want to stay close to the ecosystem and think that what you are doing is necessary in the stack.  
+           
+         For the meanwhile, I'd love to be added to your list + keep an open channel to connect!
+         
+
+     *   Scroll quick replies left
+         
+         *   Reply to conversation with “👍” 👍
+         *   Reply to conversation with “Absolutely” Absolutely
+         *   Reply to conversation with “Awesome” Awesome
+         
+         Scroll quick replies right
+         
+
+     Drag your file here.
+
+     Select your file
+
+     Or drag & drop next time
+
+       
+
+     Maximize compose field
+
+       Attach an image to your conversation with Yan Bieger
+
+       Attach a file to your conversation with Yan Bieger
+
+     Open GIF Keyboard
+
+     Open Emoji Keyboard
+
+     Send
+
+     Open send options
+
+     Choose a send option 
+
+     Press Enter to Send
+
+     Pressing Enter will send message
+
+     Click Send
+
+     Clicking Send will send message
+
+     Comment
+
+     Repost
+
+     Send
+
+     Comment
+
+     Repost
+
+     Send
+
+     Comment
+
+     Comment
+
+     Repost
+
+     Send
+
+     Comment
+
+     Repost
+
+     Send
+
+     Comment
+
+     Repost
+
+     Send
