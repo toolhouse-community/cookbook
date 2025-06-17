@@ -33,7 +33,9 @@ prompt: >
 vars:
   contact_owner_email: daniele@toolhouse.ai
   contact_owner_name: Daniele
+  url: https://img.toolhouse.ai/Connections.csv
   question: who works at openai?
 public: true
 rag: linkedin_connections
 toolhouse_id: default
+id: 69ba3e7e-d170-4a93-82d6-dc8cb0f86c7b
